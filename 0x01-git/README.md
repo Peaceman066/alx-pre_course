@@ -1,1 +1,1 @@
-It's a priviledge to be a student of ALX
+ It's a priviledge to be a student of ALX
