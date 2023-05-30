@@ -1,1 +1,1 @@
-It's a priviledge to be a student of ALX
+I'm happy about how far i have gone in this course
