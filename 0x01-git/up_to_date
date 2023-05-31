@@ -1,0 +1,6 @@
+cd 
+git checkout main
+vi README.md
+git add README.md
+git commit -m "Update README.md"
+git push origin main
